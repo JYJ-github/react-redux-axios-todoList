@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "자바스크립트",
+      "body": "공부",
+      "isDone": false
+    },
+    {
+      "id": 2,
+      "title": "리액트",
+      "body": "공부",
+      "isDone": true
+    },
+    {
+      "id": 1672633003916,
+      "title": "자바",
+      "body": "공부",
+      "isDone": false
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}
